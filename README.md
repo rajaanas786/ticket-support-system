@@ -56,7 +56,7 @@ DB_FEEDBACK_DATABASE=feedback_db
 php artisan migrate
 php artisan db:seed --class=AdminSeeder
 
-**###** Snaps
+
 
 
 
