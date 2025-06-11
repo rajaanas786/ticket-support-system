@@ -54,3 +54,5 @@ DB_GENERAL_DATABASE=general_db
 DB_FEEDBACK_DATABASE=feedback_db
 
 php artisan migrate
+php artisan db:seed --class=AdminSeeder
+
