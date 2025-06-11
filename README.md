@@ -57,7 +57,8 @@ php artisan migrate
 php artisan db:seed --class=AdminSeeder
 
 **###** Snaps
-<img width="1426" alt="Screenshot 2025-06-11 at 12 38 48 PM" src="https://github.com/user-attachments/assets/0d6c7cef-f216-41b0-89ad-a545489244b4" />
+
+
 
 
 
